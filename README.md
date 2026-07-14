@@ -1,4 +1,9 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## Dark Mood
+![Uploading image.png…]()
+
+## Light Mood
+![Uploading image.png…]()
 
 ## Getting Started
 
