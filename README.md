@@ -1,6 +1,6 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 ## Dark Mood
-![Uploading image.png…]()
+<img width="1908" height="912" alt="image" src="https://github.com/user-attachments/assets/235709cd-a623-4d21-9004-294b7929c27b" />
 
 ## Light Mood
 ![Uploading image.png…]()
